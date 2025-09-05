@@ -1,5 +1,5 @@
 # Proyecto final - Mis libros favoritos
-Encuentra Libros, Crecimiento y Amistades y Soluciones Inteligentes para la vida.
+Encuentra Libros, Crecimiento personal, Amistades y Soluciones Inteligentes para la vida.
 
 **1. Clona este repositorio:**
 Usa git clone.
